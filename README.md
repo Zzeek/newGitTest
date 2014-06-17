@@ -1,0 +1,4 @@
+newGitTest
+==========
+
+new get text
